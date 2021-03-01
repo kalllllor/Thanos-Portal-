@@ -11,7 +11,7 @@
     "react-scripts": "3.4.1",
     "react-three-fiber": "^4.2.4",
     "react-three-renderer": "^3.2.4",
-    "three": "^0.84.0",
+    "three": "^0.125.0",
     "three-obj-mtl-loader": "^1.0.3",
     "three-orbitcontrols": "^2.110.3"
   },
